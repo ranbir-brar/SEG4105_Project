@@ -14,6 +14,7 @@
 
 ## Solution
 - For the solution we plan to have the integration of several key features. We will integrate a zoomable, high-quality map of both the CHEO and Stollery hospitals allowing users to explore the hospital. Below is a fat marker design of what we intend the layout to look like.
+
 ![Fat Marker Design](./assets/hospital_fat_marker.png)
 - The navigation should be straightforward with the user being able to immediately locate the tab on the bottom navigation and see the map right away. For zooming in and out, the user can do so by pinching inwards or outwards with two fingers. As the app is local to the user’s device and does not require internet access, the user can easily view the map at their convenience. 
 - As for the map, we will reach out to our stakeholders to have one in a mobile-friendly format that will not lose its quality when zoomed in and out of. This will ensure the accuracy of the layout of the map and will give confidence to users that this map is accurate and will be the layout of the hospital on the day of their surgery.
