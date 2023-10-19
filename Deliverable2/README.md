@@ -1,6 +1,8 @@
 # Deliverable 2: The Bet
 ## Winning Pitch: Health Check-In Map (Jason's Pitch)
 ## Updated Pitch
+![image](https://github.com/ranbir-brar/SEG4105_Project/assets/55161355/b8a76efc-13dd-47d5-9093-e307b392738d)
+
 ## Meeting Minutes From Betting Table
 - We decided to look at each pitch as a group staring with Yasser's Heath Checklist pitch.
   - *Does the problem matter?*
